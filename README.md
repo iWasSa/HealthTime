@@ -1,1 +1,2 @@
 # HealthTime
+o APP HealthTime tem o propósito de tornar sua vida mais saúdavel, divertida e emocionante através da sua dedicação em evoluir e torna-se uma pessoa melhor. Iremos instalar uma rotina que se encaixe perfeitamente com o seu dia a dia para que voce consiga estar cada vez mais perto de conquistar suas metas. Adicionaremos horários, exercicios, atividades diversas e uma alimentação correta, para que voce conquiste a saude e o estado físico no qual sempre sonhou.
